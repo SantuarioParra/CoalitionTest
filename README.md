@@ -29,6 +29,8 @@ All the source code for task and project is my own, except the dependencies and 
     * >npm run dev or npm run build
 - Make the migrations
     * >php artisan migrate
+    * Also you can run the seeders
+        * > php artisan migrate:fresh --seed
 - If you want to run the unit test go to php.ini and uncomment 
     * >  ;extension=sqlite.so to extension=sqlite.so
     * and finally use in the console to run the tests

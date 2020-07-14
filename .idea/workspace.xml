@@ -291,7 +291,7 @@
       <path value="$PROJECT_DIR$/vendor/askedio/laravel-soft-cascade" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="773" />
     <option name="width" value="1154" />
     <option name="height" value="1087" />
