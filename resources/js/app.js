@@ -23,6 +23,10 @@ const config ={
 //Vuex installation
 import store from './store';
 
+//Vuelidate installation
+import Vuelidate from 'vuelidate'
+Vue.use(Vuelidate);
+
 /**
  * The following block of code may be used to automatically register your
  * Vue components. It will recursively scan this directory for the Vue

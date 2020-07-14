@@ -25,6 +25,8 @@
     },
     "dependencies": {
         "@mdi/font": "^5.3.45",
+        "vuedraggable": "^2.24.0",
+        "vuelidate": "^0.7.5",
         "vuetify": "^2.3.4",
         "vuex": "^3.5.1"
     }
